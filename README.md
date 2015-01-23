@@ -1,5 +1,5 @@
 # concerts
-A running list of concerts I've attended with any media I grabbed from those shows
+An incomplete list of concerts I've attended with any media I grabbed from those shows
 
 ## 2015
 | Artists | Venue | Date |
