@@ -11,7 +11,7 @@ A running list of concerts I've attended with any media I grabbed from those sho
 |:--------|:------|:----|
 | TesseracT, Intronaut and Cloudkicker | Constellation Room at the Observatory | April 12 |
 | Meshuggah, Between The Buried And Me| The Wiltern | June 6th |
-| Cold Cave, Nine Inch Nails | Verizon Amplitheater | August 22nd |
+| Cold Cave, Soundgarden, Nine Inch Nails | Verizon Amplitheater | August 22nd |
 | Oddball Festival | Verizon Amplitheater | September 14th |
 | The Monuments, Animals As Leaders, Devin Townsend | Mayan Theater | December 16th |
 | Taken, Misery Signals | The Glass House | December 19th |
