@@ -5,6 +5,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Homeboy Sandman, Rob Sonice, Aesop Rock | The Irenic | January 8th |
+| Earthless, Arctic, Loom, Operation Mindblow Light Show | The Casbah | February 7th |
 
 ## 2014
 | Artists | Venue | Date |
