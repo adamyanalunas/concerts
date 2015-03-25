@@ -7,6 +7,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Homeboy Sandman, Rob Sonice, Aesop Rock | The Irenic | January 8th |
 | Earthless, Arctic, Loom, Operation Mindblow Light Show | The Casbah | February 7th |
 | Addams Family (this was awful) | Lyceum Theater | February 13th |
+| VaVa VOOM! Voluptuous Vaudevillian Vixens | The Irenic | March 21st |
 
 ## 2014
 | Artists | Venue | Date |
