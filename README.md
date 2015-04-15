@@ -8,6 +8,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Earthless, Arctic, Loom, Operation Mindblow Light Show | The Casbah | February 7th |
 | Addams Family (this was awful) | Lyceum Theater | February 13th |
 | VaVa VOOM! Voluptuous Vaudevillian Vixens | The Irenic | March 21st |
+| Action Bronson w/ The Alchemist | Observatory NP | April 9th |
+| Warbringer, Meshuggah | House of Blues San Diego | April 14th |
 
 ## 2014
 | Artists | Venue | Date |
