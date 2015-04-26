@@ -10,6 +10,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | VaVa VOOM! Voluptuous Vaudevillian Vixens | The Irenic | March 21st |
 | Action Bronson w/ The Alchemist | Observatory NP | April 9th |
 | Warbringer, Meshuggah | House of Blues San Diego | April 14th |
+| Philm, Faith No More | Observatory, Orange County | April 25th |
 
 ## 2014
 | Artists | Venue | Date |
