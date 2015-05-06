@@ -11,8 +11,9 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Action Bronson w/ The Alchemist | Observatory NP | April 9th |
 | Warbringer, Meshuggah | House of Blues San Diego | April 14th |
 | Philm, Faith No More | Observatory, Orange County | April 25th |
+| Hot Nerds, Liturgy, Lightning Bolt | The Casbah | May 6th |
 
-## 2014
+## 2014 (incomplete)
 | Artists | Venue | Date |
 |:--------|:------|:----|
 | TesseracT, Intronaut and Cloudkicker | Constellation Room at the Observatory | April 12 |
@@ -25,7 +26,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Taken, Misery Signals | The Glass House | December 19th |
 
 
-## 2013
+## 2013 (woefully incomplete)
 | Artists | Venue | Date |
 |:--------|:------|:----|
 | The Uncluded | The Irenic | July 23rd |
