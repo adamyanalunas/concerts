@@ -12,6 +12,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Warbringer, Meshuggah | House of Blues San Diego | April 14th |
 | Philm, Faith No More | Observatory, Orange County | April 25th |
 | Hot Nerds, Liturgy, Lightning Bolt | The Casbah | May 6th |
+| Sweet Spirit, Spoon | Observatory, NP | June 2nd |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
