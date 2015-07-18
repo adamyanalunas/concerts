@@ -13,6 +13,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Philm, Faith No More | Observatory, Orange County | April 25th |
 | Hot Nerds, Liturgy, Lightning Bolt | The Casbah | May 6th |
 | Sweet Spirit, Spoon | Observatory, NP | June 2nd |
+| Yvette Young, Polypiha, Chon | The Irenic | July 17th |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
