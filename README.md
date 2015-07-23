@@ -44,4 +44,5 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 |:--------|:------|:-----|
 | Rammstein | Honda Center | May 17th |
 | Dr. Awkward, MC Lars, MC Frontalot | Ruby Room | July 14th |
+| Brian Posehn | American Comedy Co | October 12th |
 | Primus | Balboa Theater | December 27th |
