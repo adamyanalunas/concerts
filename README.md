@@ -32,5 +32,16 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 ## 2013 (woefully incomplete)
 | Artists | Venue | Date |
 |:--------|:------|:----|
+| The Atlas Moth, Devin Townsend, Gojira | The Fonda Theater | January 25th |
+| Russian Circles, Between The Buried And Me, Coheed And Cambria | House of Blues San Diego | February 25th |
+| Intronaut, Animals As Leaders, Meshuggah | The Wiltern | March 2nd |
+| Busdriver, Aesop Rock w/ Rob Sonic and DJ Big Wiz | Belly Up | April 17th |
 | The Uncluded | The Irenic | July 23rd |
 | The Contortionist, The Faceless, Between The Buried And Me | House of Blues San Diego | September 28th |
+
+## 2012 (laughably incomplete)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Rammstein | Honda Center | May 17th |
+| Dr. Awkward, MC Lars, MC Frontalot | Ruby Room | July 14th |
+| Primus | Balboa Theater | December 27th |
