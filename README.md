@@ -14,6 +14,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Hot Nerds, Liturgy, Lightning Bolt | The Casbah | May 6th |
 | Sweet Spirit, Spoon | Observatory, NP | June 2nd |
 | Yvette Young, Polypiha, Chon | The Irenic | July 17th |
+| The Contortionist, Animals As Leaders, Between The Buried And Me | Observatory NP | July 22nd |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
