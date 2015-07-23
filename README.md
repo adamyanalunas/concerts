@@ -32,3 +32,4 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:----|
 | The Uncluded | The Irenic | July 23rd |
+| The Contortionist, The Faceless, Between The Buried And Me | House of Blues San Diego | September 28th |
