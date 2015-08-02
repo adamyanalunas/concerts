@@ -15,6 +15,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Sweet Spirit, Spoon | Observatory, NP | June 2nd |
 | Yvette Young, Polypiha, Chon | The Irenic | July 17th |
 | The Contortionist, Animals As Leaders, Between The Buried And Me | Observatory NP | July 22nd |
+| How Did This Get Made - [Theodore Rex](http://www.imdb.com/title/tt0114658/) | House of Blues San Diego | August 1st|
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
