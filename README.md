@@ -17,6 +17,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | The Contortionist, Animals As Leaders, Between The Buried And Me | Observatory NP | July 22nd |
 | How Did This Get Made - [Theodore Rex](http://www.imdb.com/title/tt0114658/) | House of Blues San Diego | August 1st|
 | Child Bite, Ken Mode | Soda Bar | September 20th |
+| Gates, CHON, The Dear Hunter | The Irenic | October 2nd |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
