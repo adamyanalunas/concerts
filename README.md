@@ -18,6 +18,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | How Did This Get Made - [Theodore Rex](http://www.imdb.com/title/tt0114658/) | House of Blues San Diego | August 1st|
 | Child Bite, Ken Mode | Soda Bar | September 20th |
 | Gates, CHON, The Dear Hunter | The Irenic | October 2nd |
+| San Diego Symphony performs _The Nightmare Before Christmas_ | Copley Symphony Hall | October 31st |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
