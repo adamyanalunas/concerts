@@ -19,6 +19,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Child Bite, Ken Mode | Soda Bar | September 20th |
 | Gates, CHON, The Dear Hunter | The Irenic | October 2nd |
 | San Diego Symphony performs _The Nightmare Before Christmas_ | Copley Symphony Hall | October 31st |
+| Skyharbor, ERRA, The Contortionist, Tesseract | House Of Blues San Diego | November 23 |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
