@@ -19,7 +19,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Child Bite, Ken Mode | Soda Bar | September 20th |
 | Gates, CHON, The Dear Hunter | The Irenic | October 2nd |
 | San Diego Symphony performs _The Nightmare Before Christmas_ | Copley Symphony Hall | October 31st |
-| Skyharbor, ERRA, The Contortionist, Tesseract | House Of Blues San Diego | November 23 |
+| Skyharbor, ERRA, The Contortionist, Tesseract | House Of Blues San Diego | November 23rd |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
@@ -51,3 +51,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Dr. Awkward, MC Lars, MC Frontalot | Ruby Room | July 14th |
 | Brian Posehn | American Comedy Co | October 12th |
 | Primus | Balboa Theater | December 27th |
+
+## 2011 (OMG how does remembering work?)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Tesseract, Animals As Leaders, Between The Buried And Me | House of Blues Anaheim | November 25th |
