@@ -20,6 +20,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Gates, CHON, The Dear Hunter | The Irenic | October 2nd |
 | San Diego Symphony performs _The Nightmare Before Christmas_ | Copley Symphony Hall | October 31st |
 | Skyharbor, ERRA, The Contortionist, Tesseract | House Of Blues San Diego | November 23rd |
+| Native Construct, Intronaut, Entombed, Between The Buried And Me | Mayan Theater | November 29th |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
