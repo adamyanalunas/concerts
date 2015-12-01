@@ -21,6 +21,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | San Diego Symphony performs _The Nightmare Before Christmas_ | Copley Symphony Hall | October 31st |
 | Skyharbor, ERRA, The Contortionist, Tesseract | House Of Blues San Diego | November 23rd |
 | Native Construct, Intronaut, Entombed, Between The Buried And Me | Mayan Theater | November 29th |
+| Sensory Station, Weight of the Sun, Intronaut | Soda Bar | November 30th |
 
 ## 2014 (incomplete)
 | Artists | Venue | Date |
