@@ -1,6 +1,11 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
+## 2016
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| 3Teeth, Primus, Tool | Viejas Arena | January 9th |
+
 ## 2015
 | Artists | Venue | Date |
 |:--------|:------|:-----|
