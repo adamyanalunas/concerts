@@ -5,6 +5,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | 3Teeth, Primus, Tool | Viejas Arena | January 9th |
+| Helsott, Theosis, Mortuus Terror, Abigail Williams, Carach Angren, Fleshgod Apocalypse | Brick By Brick | February 23rd |
 
 ## 2015
 | Artists | Venue | Date |
