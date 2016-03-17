@@ -7,6 +7,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | 3Teeth, Primus, Tool | Viejas Arena | January 9th |
 | Odysseo | Under the White Big Top | February 20th |
 | Helsott, Theosis, Mortuus Terror, Abigail Williams, Carach Angren, Fleshgod Apocalypse | Brick By Brick | February 23rd |
+| North, Scale The Summit, Intronaut | Brick By Brick | March 16th |
 
 ## 2015
 | Artists | Venue | Date |
