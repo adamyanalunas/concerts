@@ -53,6 +53,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Intronaut, Animals As Leaders, Meshuggah | The Wiltern | March 2nd |
 | Busdriver, Aesop Rock w/ Rob Sonic and DJ Big Wiz | Belly Up | April 17th |
 | The Uncluded | The Irenic | July 23rd |
+| The Kindred, Elitist, The Color Morale, Misery Signals | Che Cafe | July 31st |
 | The Contortionist, The Faceless, Between The Buried And Me | House of Blues San Diego | September 28th |
 
 ## 2012 (laughably incomplete)
@@ -67,3 +68,28 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Tesseract, Animals As Leaders, Between The Buried And Me | House of Blues Anaheim | November 25th |
+
+## 2010 (…)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Black Anvil, Goatwhore, Watain | Ruby Room | November 18th |
+
+## 2007 (I have discovered fire)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Earthless(?), Wolves In The Throne Room, Weedeater, Earth, Sunn O))) | The Casbah | July 2nd |
+
+## 2006 (TIme is merely a concept)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Sleeping People, Envy | Che Cafe | August 18th |
+
+## 2005 (First fish crawled out from the sea)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| ???, Hella | Che Cafe | March 12th |
+
+## 2003 (Stegosaurus was my best friend)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Radiation 4, Playing Enemy | Che Cafe | April 29th |
