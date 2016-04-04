@@ -9,6 +9,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Helsott, Theosis, Mortuus Terror, Abigail Williams, Carach Angren, Fleshgod Apocalypse | Brick By Brick | February 23rd |
 | North, Scale The Summit, Intronaut | Brick By Brick | March 16th |
 | Good Tiger, Between The Buried And Me, August Burns Red | House of Blues San Diego | March 18th |
+| Dark Crystal | Balboa Theater | March 25th |
+| Entheos, Monuments, Contortionist | Soma | March 26th |
 
 ## 2015
 | Artists | Venue | Date |
