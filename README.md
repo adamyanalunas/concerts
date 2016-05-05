@@ -10,7 +10,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | North, Scale The Summit, Intronaut | Brick By Brick | March 16th |
 | Good Tiger, Between The Buried And Me, August Burns Red | House of Blues San Diego | March 18th |
 | Dark Crystal | Balboa Theater | March 25th |
-| Entheos, Monuments, Contortionist | Soma | March 26th |
+| Entheos, Monuments, The Contortionist | Soma | March 26th |
+| Disappears, Explosions In The Sky | Observatory NP | May 4th |
 
 ## 2015
 | Artists | Venue | Date |
