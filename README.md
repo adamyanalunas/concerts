@@ -12,6 +12,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Dark Crystal | Balboa Theater | March 25th |
 | Entheos, Monuments, The Contortionist | Soma | March 26th |
 | Disappears, Explosions In The Sky | Observatory NP | May 4th |
+| Toothgrinder, Sikth, Periphery | House of Blues San Diego | August 12 |
 
 ## 2015
 | Artists | Venue | Date |
