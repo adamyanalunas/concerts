@@ -58,10 +58,13 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | The Atlas Moth, Devin Townsend, Gojira | The Fonda Theater | January 25th |
 | Russian Circles, Between The Buried And Me, Coheed And Cambria | House of Blues San Diego | February 25th |
 | Intronaut, Animals As Leaders, Meshuggah | The Wiltern | March 2nd |
+| Assassins (Play) | Cygnet Theater | March 29th |
 | Busdriver, Aesop Rock w/ Rob Sonic and DJ Big Wiz | Belly Up | April 17th |
 | The Uncluded | The Irenic | July 23rd |
 | The Kindred, Elitist, The Color Morale, Misery Signals | Che Cafe | July 31st |
 | The Contortionist, The Faceless, Between The Buried And Me | House of Blues San Diego | September 28th |
+| Great American Beer Fest | Colorado Convention Center | October 10th |
+| Great American Beer Fest | Colorado Convention Center | October 11th |
 
 ## 2012 (laughably incomplete)
 | Artists | Venue | Date |
