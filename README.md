@@ -1,6 +1,12 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
+## 2017
+
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| ’68, In Heart's Wake, Protest The Hero, August Burns Red | Soma | January 27th |
+
 ## 2016
 | Artists | Venue | Date |
 |:--------|:------|:-----|
