@@ -96,6 +96,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Earthless(?), Wolves In The Throne Room, Weedeater, Earth, Sunn O))) | The Casbah | July 2nd |
+| The Hoedown’, HORSE The Band, Animosity, Between The Buried And Me | Soma | October 13th |
 
 ## 2006 (TIme is merely a concept)
 | Artists | Venue | Date |
