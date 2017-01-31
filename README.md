@@ -7,6 +7,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 |:--------|:------|:-----|
 | ’68, In Heart's Wake, Protest The Hero, August Burns Red | Soma | January 27th |
 | Gut Churn w/ Jad Abumrad and Zoë Keating | Balboa Theater | January 29th |
+| The Gaslamp Killer, Gangsta Boo, Nick Hook, Run The Jewels | Observatory NP | January 30th |
 
 ## 2016
 | Artists | Venue | Date |
