@@ -9,6 +9,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Gut Churn w/ Jad Abumrad and Zoë Keating | Balboa Theater | January 29th |
 | The Gaslamp Killer, Gangsta Boo, Nick Hook, Run The Jewels | Observatory NP | January 30th |
 | Alive & Well, Dashboard Confessional | Ché Café | February 7th |
+| Dave Attell | American Comedy Co. | March 4th |
 | Rivers of Nihil, Ringworm, Tombs, Darkest Hour | Brick By Brick | March 11th |
 
 ## 2016
