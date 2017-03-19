@@ -11,6 +11,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Alive & Well, Dashboard Confessional | Ché Café | February 7th |
 | Dave Attell | American Comedy Co. | March 4th |
 | Rivers of Nihil, Ringworm, Tombs, Darkest Hour | Brick By Brick | March 11th |
+| Jay & Silent Bob Get Old | Balboa Theater | March 18th |
 
 ## 2016
 | Artists | Venue | Date |
