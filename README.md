@@ -12,6 +12,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Dave Attell | American Comedy Co. | March 4th |
 | Rivers of Nihil, Ringworm, Tombs, Darkest Hour | Brick By Brick | March 11th |
 | Jay & Silent Bob Get Old | Balboa Theater | March 18th |
+| Brian Posehn | American Comedy Co. | March 23rd |
+| Covet, Jason Richardson, Polyphia | The Irenic | March 24th |
 
 ## 2016
 | Artists | Venue | Date |
