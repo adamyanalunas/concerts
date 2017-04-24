@@ -14,6 +14,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Jay & Silent Bob Get Old | Balboa Theater | March 18th |
 | Brad Wenzel, Brian Posehn | American Comedy Co. | March 23rd |
 | Covet, Jason Richardson, Polyphia | The Irenic | March 24th |
+| Penis Hickey, Høurs, Free Salamander Exhibit | Soda Bar | April 23rd |
 
 ## 2016
 | Artists | Venue | Date |
