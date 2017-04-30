@@ -15,6 +15,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Brad Wenzel, Brian Posehn | American Comedy Co. | March 23rd |
 | Covet, Jason Richardson, Polyphia | The Irenic | March 24th |
 | Penis Hickey, Høurs, Free Salamander Exhibit | Soda Bar | April 23rd |
+| Sight Unscene, BeeKeeper, Child Bite, Battlecross, Superjoint Ritual | Brick By Brick | April 29th |
 
 ## 2016
 | Artists | Venue | Date |
