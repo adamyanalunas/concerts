@@ -16,6 +16,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Covet, Jason Richardson, Polyphia | The Irenic | March 24th |
 | Penis Hickey, Høurs, Free Salamander Exhibit | Soda Bar | April 23rd |
 | Sight Unscene, BeeKeeper, Child Bite, Battlecross, Superjoint Ritual | Brick By Brick | April 29th |
+| Shockheaded Peter | Cygnet Theater | May 19th |
 
 ## 2016
 | Artists | Venue | Date |
