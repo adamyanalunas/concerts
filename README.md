@@ -17,6 +17,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Penis Hickey, Høurs, Free Salamander Exhibit | Soda Bar | April 23rd |
 | Sight Unscene, BeeKeeper, Child Bite, Battlecross, Superjoint Ritual | Brick By Brick | April 29th |
 | Shockheaded Peter | Cygnet Theater | May 19th |
+| Alluvial, Veil of Maya, Animals as Leaders | Balboa Theater | June 3rd |
 
 ## 2016
 | Artists | Venue | Date |
