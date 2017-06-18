@@ -18,6 +18,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Sight Unscene, BeeKeeper, Child Bite, Battlecross, Superjoint Ritual | Brick By Brick | April 29th |
 | Shockheaded Peter | Cygnet Theater | May 19th |
 | Alluvial, Veil of Maya, Animals as Leaders | Balboa Theater | June 3rd |
+| Hellyeah, Babymetal | Hollywood Palladium | June 16th |
 
 ## 2016
 | Artists | Venue | Date |
