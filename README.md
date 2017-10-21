@@ -20,6 +20,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Alluvial, Veil of Maya, Animals as Leaders | Balboa Theater | June 3rd |
 | Hellyeah, Babymetal | Hollywood Palladium | June 16th |
 | Toothgrinder, Polyphia, The Contortionist, Between The Buried And Me | Soma | October 9th |
+| Code Orange, Torche, Gojira | Observatory NP | October 19th |
 
 ## 2016
 | Artists | Venue | Date |
