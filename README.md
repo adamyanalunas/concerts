@@ -1,6 +1,12 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
+## 2018
+
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Woman King, Russian Circles | Brick By Brick | March 26th |
+
 ## 2017
 
 | Artists | Venue | Date |
