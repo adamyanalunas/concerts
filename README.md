@@ -112,6 +112,11 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 |:--------|:------|:-----|
 | Black Anvil, Goatwhore, Watain | Ruby Room | November 18th |
 
+## 2009 (I did a thing!)
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Young Widows, Red Sparowes, Russian Circles | Casbah | November 12th |
+
 ## 2007 (I have discovered fire)
 | Artists | Venue | Date |
 |:--------|:------|:-----|
