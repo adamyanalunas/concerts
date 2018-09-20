@@ -7,6 +7,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 |:--------|:------|:-----|
 | Woman King, Russian Circles | Brick By Brick | March 26th |
 | Astronoid, Plini, Tesseract | House of Blues San Diego | May 4th |
+| Spamalot | Cygnet Theater | August 8th |
+| Eivør, Wardruna | The Theater at Ace Hotel Los Angeles | September 14th |
 
 ## 2017
 
