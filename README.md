@@ -10,6 +10,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Spamalot | Cygnet Theater | August 8th |
 | Eivør, Wardruna | The Theater at Ace Hotel Los Angeles | September 14th |
 | Russian Circles, Chelsea Wolfe | Music Box | October 3rd |
+| 27, Old Man Gloom, Pelican, Isis/Celestial, Cave In, Zozobra | The Wiltern | October 13th |
 
 ## 2017
 
