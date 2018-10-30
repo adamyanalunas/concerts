@@ -11,6 +11,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Eivør, Wardruna | The Theater at Ace Hotel Los Angeles | September 14th |
 | Russian Circles, Chelsea Wolfe | Music Box | October 3rd |
 | 27, Old Man Gloom, Pelican, Isis/Celestial, Cave In, Zozobra | The Wiltern | October 13th |
+| Evil Dead: The Musical | Tenth Avenue Arts Center | October 28th |
 
 ## 2017
 
