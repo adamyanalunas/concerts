@@ -12,6 +12,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Russian Circles, Chelsea Wolfe | Music Box | October 3rd |
 | 27, Old Man Gloom, Pelican, Isis/Celestial, Cave In, Zozobra | The Wiltern | October 13th |
 | Evil Dead: The Musical | Tenth Avenue Arts Center | October 28th |
+| Emil Werstler Clinic | Sam Ash, San Diego | November 15th |
 
 ## 2017
 
