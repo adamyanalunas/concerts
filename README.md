@@ -1,6 +1,11 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
+## 2019
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| My Favorite Murder | San Diego Civic Theater | January 10th |
+
 ## 2018
 
 | Artists | Venue | Date |
