@@ -5,6 +5,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | My Favorite Murder | San Diego Civic Theater | January 10th |
+| Book of Mormon | San Diego Civic Theater | July 24th |
 | Evil Dead: The Musical | Tenth Avenue Arts Center | October 19th |
 
 ## 2018
