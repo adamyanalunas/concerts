@@ -7,6 +7,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Heilung | The Novo, Los Angels | January 9th |
+| RDG, Verlorener, Tony MacAlpine | Brick By Brick | March 10th |
+| Intronaut, Emma Ruth Rundle, Cult of Luna | Brick By Brick | March 11th |
 
 ## 2019
 | Artists | Venue | Date |
