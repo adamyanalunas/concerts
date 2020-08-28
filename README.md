@@ -160,3 +160,9 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Radiation 4, Playing Enemy | Che Cafe | April 29th |
+
+## 1999
+
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Lamb | St. Andrew’s Hall, Detroit | September 29th |
