@@ -4,11 +4,59 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 
 
 ## 2020
-| Artists | Venue | Date |
-|:--------|:------|:-----|
-| Heilung | The Novo, Los Angels | January 9th |
-| RDG, Verlorener, Tony MacAlpine | Brick By Brick | March 10th |
-| Intronaut, Emma Ruth Rundle, Cult of Luna | Brick By Brick | March 11th |
+
+<table>
+<thead>
+<tr>
+<th align="left">Artists</th>
+<th align="left">Venue</th>
+<th align="left">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Heilung</td>
+<td align="left">The Novo, Los Angels</td>
+<td align="left">January 9th</td>
+</tr>
+<tr>
+<td align="left">RDG, Verlorener, Tony MacAlpine</td>
+<td align="left">Brick By Brick</td>
+<td align="left">March 10th</td>
+</tr>
+<tr>
+<td align="left">Intronaut, Emma Ruth Rundle, Cult of Luna</td>
+<td align="left">Brick By Brick</td>
+<td align="left">March 11th</td>
+</tr>
+<tr>
+<td align="left">
+  <details><summary>Devin Townsend</summary>
+  
+  <p>Track List:</p>
+  <ol>
+  <li>Strappig Young Lad - (forgot the name of this one, whoops.)</li>
+  <li>Ziltoid - By Your Command</li>
+  <li>Strapping Young Lad - Almost Again</li>
+  <li>Devin Townsend Project - Juular</li>
+  <li>Devin Townsend Project - March of the Poozers</li>
+  <li>Devin Townsend Project - Supercrush!</li>
+  <li>Devin Townsend Project - Hyperdrive</li>
+  <li>Devin Townsend Project - Stormbending</li>
+  <li>Devin Townsend Band - Deadhead</li>
+  <li>Strapping Young Lad - Aftermath</li>
+  <li>Strapping Young Lad - Love?</li>
+  <li>Devin Townsend - Spirits Will Collide</li>
+  <li>Devin Townsend - Kingdom</li>
+  <li>Strapping Young Lad - Detox</li>
+  </ol>
+  </details>
+</td>
+<td align="left"><a href="https://www.stageit.com/devin_townsend/empath_live_volume_2_by_request_set/85575">Stageit</a></td>
+<td align="left">September 5th</td>
+</tr>
+</tbody>
+</table>
 
 ## 2019
 | Artists | Venue | Date |
