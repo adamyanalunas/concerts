@@ -81,6 +81,28 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 </td>
 <td align="left"><a href="https://www.stageit.com/devin_townsend/empath_live_volume_2_by_request_set/85575">Stageit</a></td>
 <td align="left">September 5th</td>
+</tr><tr>
+<td align="left">
+  <details><summary>Misery Signals, Darkest Hour</summary>
+  
+  <p>Misery Signals:</p>
+  <ol>
+  <li>Sunlifter</li>
+  <li>(forgot, whoops)</li>
+  <li>Luminary</li>
+  <li>Set in Motion</li>
+  <li>Old Ghosts</li>
+  <li>Worlds and Dreams</li>
+  <li>The Tempest</li>
+  <li>A Certain Death</li>
+  <li>Cascade Locks</li>
+  <li>The Failsafe</li>
+  <li>The Year Summer Ended in June</li>
+  </ol>
+  </details>
+</td>
+<td align="left"><a href="https://darkesthour.veeps.com/orders/3ETX4W5TP1D39PHGVMUS">Veeps</a></td>
+<td align="left">December 7th</td>
 </tr>
 </tbody>
 </table>
