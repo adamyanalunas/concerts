@@ -251,6 +251,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Sleeping People, Envy | Che Cafe | August 18th |
+| [Intronaut (did not show) / Yakuza / Vivisect / Gutrot](https://www.flickr.com/photos/allboyshatebras/albums/72157594421145674) | Scolari’s Office | December 15th |
 
 ## 2005 (First fish crawled out from the sea)
 | Artists | Venue | Date |
