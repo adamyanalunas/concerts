@@ -6,6 +6,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Devin Townsend complete Ocean Machine: Biomech | [Devin Townsend Shop](https://devintownsendshop.com/pages/performance-of-ocean-machine-biomech) | May 1st |
+| The Rocky Horror Show | OB Playhouse & Theater | October 2nd |
 
 ## 2020
 
