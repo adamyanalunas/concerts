@@ -1,6 +1,14 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
+## 2022
+
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Raammstein | Los Angeles Memorial Coliseum | September 24th |
+| Wardruna | The Magnolia | November 2nd |
+
+
 ## 2021
 
 | Artists | Venue | Date |
