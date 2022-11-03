@@ -267,6 +267,11 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 |:--------|:------|:-----|
 | ???, Hella | Che Cafe | March 12th |
 
+## 2004
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Mars Volta, A Perfect Circle | Viejas Arena | April 2nd |
+
 ## 2003 (Stegosaurus was my best friend)
 | Artists | Venue | Date |
 |:--------|:------|:-----|
