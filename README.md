@@ -5,7 +5,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 
 | Artists | Venue | Date |
 |:--------|:------|:-----|
-| Fishbine, Les Claypool's Fearless Flying Frog Brigade | The Observatory SD | May 21st |
+| Fishbone, Les Claypool's Fearless Flying Frog Brigade | The Observatory SD | May 21st |
 
 ## 2022
 
