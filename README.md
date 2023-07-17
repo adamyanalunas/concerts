@@ -6,6 +6,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Artists | Venue | Date |
 |:--------|:------|:-----|
 | Fishbone, Les Claypool's Fearless Flying Frog Brigade | Observatory North Park | May 21st |
+| Rivers of Nihil, Thank You Scientist, Between The Buried And Me | Observatory North Park | July 16th |
 
 ## 2022
 
