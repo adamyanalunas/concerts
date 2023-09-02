@@ -180,6 +180,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Dark Crystal | Balboa Theater | March 25th |
 | Entheos, Monuments, The Contortionist | Soma | March 26th |
 | Disappears, Explosions In The Sky | Observatory NP | May 4th |
+| Game Grumps Live! | Observatory NP | July 22 |
 | Toothgrinder, Sikth, Periphery | House of Blues San Diego | August 12 |
 | Fallujah, Between The Buried And Me, Devin Townsend Project ([dat me](https://youtu.be/-lLX2GbBUxU?t=8m39s)) | Crystal Ballroom, Portland | October 13th |
 | Warpath, Lurid Memory, Starkill, Enforcer, Swallow The Sun, Dark Tranquility | Brick By Brick | December 1st |
