@@ -9,6 +9,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Rivers of Nihil, Thank You Scientist, Between The Buried And Me | Observatory North Park | July 16th |
 | Negative Blast, The Discussion, City of Caterpillar | Soda Bar | August 24th |
 | Wheel, Bent Knee, Vola | Brick By Brick | September 23 |
+| Otto Von Schirach, Melt Banana, Igorrr | Music Box | October 14th |
 
 ## 2022
 
