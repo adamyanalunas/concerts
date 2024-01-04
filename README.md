@@ -10,6 +10,8 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 | Negative Blast, The Discussion, City of Caterpillar | Soda Bar | August 24th |
 | Wheel, Bent Knee, Vola | Brick By Brick | September 23 |
 | Otto Von Schirach, Melt Banana, Igorrr | Music Box | October 14th |
+| DJ Driver, Clowncore | Empire Garage, Austin | October 24th |
+| Deaf Club, Roman Candle, Botch | Observatory OC | December 9th |
 
 ## 2022
 
