@@ -1,7 +1,7 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
-## 202r
+## 2024
 
 | Artists | Venue | Date |
 |:--------|:------|:-----|
