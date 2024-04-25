@@ -1,6 +1,12 @@
 # concerts
 An incomplete list of concerts I've attended with any media I grabbed from those shows
 
+## 202r
+
+| Artists | Venue | Date |
+|:--------|:------|:-----|
+| Dean & Claire Lamb (Archapire), Lee McKinney (Born of Osiris), Devin Townsend | Kiesel Connect | January 27th |
+
 ## 2023
 
 | Artists | Venue | Date |
@@ -17,7 +23,7 @@ An incomplete list of concerts I've attended with any media I grabbed from those
 
 | Artists | Venue | Date |
 |:--------|:------|:-----|
-| Raammstein | Los Angeles Memorial Coliseum | September 24th |
+| Rammstein | Los Angeles Memorial Coliseum | September 24th |
 | Wardruna | The Magnolia | November 2nd |
 
 
